@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\bin\Debug\net6.0-windows\GPAaCalculator.exe
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\bin\Debug\net6.0-windows\GPAaCalculator.deps.json
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\bin\Debug\net6.0-windows\GPAaCalculator.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\bin\Debug\net6.0-windows\GPAaCalculator.dll
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\bin\Debug\net6.0-windows\ref\GPAaCalculator.dll
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\bin\Debug\net6.0-windows\GPAaCalculator.pdb
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.Form1.resources
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.dll
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\ref\GPAaCalculator.dll
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.pdb
+C:\Users\Admin\Documents\GitHub\lol\GPAaCalculator\GPAaCalculator\obj\Debug\net6.0-windows\GPAaCalculator.genruntimeconfig.cache

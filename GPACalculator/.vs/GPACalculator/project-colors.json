@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d470c01-d023-4712-8bf5-eb443a83c511": {
+      "ProjectGuid": "5d470c01-d023-4712-8bf5-eb443a83c511",
+      "DisplayName": "GPACalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
